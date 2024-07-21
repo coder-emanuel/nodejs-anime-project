@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto Shippuden",
+    "genre": "Acción, aventuras y fantasía",
+    "studioId": 1
+  },
+  {
+    "id": 2,
+    "title": "Dragon Ball Z",
+    "genre": "Acción, aventura, comedia, artes marciales, fantasía",
+    "studioId": 2
+  }
+]
